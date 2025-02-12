@@ -121,3 +121,7 @@ This project successfully demonstrates the creation of a robust and efficient da
 **Monitoring and Notification System:** Implemented a monitoring and notification system using CloudWatch and EventBridge, showcasing the ability to ensure pipeline reliability and proactively address potential issues.
 
 **Hands-on AWS Experience:** This project provided practical experience with key AWS data engineering services, including Glue, S3, Redshift, CloudWatch, and EventBridge, SNS in solidifying understanding of cloud-based data engineering principles.
+
+## 👨‍💻 Author
+Hi, I’m Aman Saxena!, an aspiring Data Engineer.
+Feel free to connect on amansaxena129@gmail.com
